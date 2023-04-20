@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tp02Bis/1.0.0": {
+        "runtime": {
+          "Tp02Bis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tp02Bis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

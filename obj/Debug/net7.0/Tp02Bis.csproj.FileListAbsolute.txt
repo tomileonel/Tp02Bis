@@ -1,0 +1,15 @@
+Z:\2023\PROG\Tp02Bis\bin\Debug\net7.0\Tp02Bis.exe
+Z:\2023\PROG\Tp02Bis\bin\Debug\net7.0\Tp02Bis.deps.json
+Z:\2023\PROG\Tp02Bis\bin\Debug\net7.0\Tp02Bis.runtimeconfig.json
+Z:\2023\PROG\Tp02Bis\bin\Debug\net7.0\Tp02Bis.dll
+Z:\2023\PROG\Tp02Bis\bin\Debug\net7.0\Tp02Bis.pdb
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.csproj.AssemblyReference.cache
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.AssemblyInfoInputs.cache
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.AssemblyInfo.cs
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.csproj.CoreCompileInputs.cache
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.dll
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\refint\Tp02Bis.dll
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.pdb
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\Tp02Bis.genruntimeconfig.cache
+Z:\2023\PROG\Tp02Bis\obj\Debug\net7.0\ref\Tp02Bis.dll
